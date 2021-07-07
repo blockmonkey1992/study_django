@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ post.title }} - Blog</title>
+</head>
+<body>
+    <nav>
+        <a href="/blog/">블로그 메인페이지로 돌아가기</a>
+    </nav>
+
+    <h1>{{ post.title }}</h1>
+    <h4>{{ post.created_at }}</h4>
+    <p>{{ post.content }}</p>
+
+    <hr />
+
+    <h3>댓글자리</h3>
+</body>
+</html>
