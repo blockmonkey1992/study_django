@@ -1,1 +1,1 @@
-## 학교 TDD 수업을 위해 Doit Django + Bootstrap 강좌를 수강하며 Django 간단히 익히기
+## Doit Django + Bootstrap 강좌를 수강하며 Django Framwork 경험하기 (MTV...)
